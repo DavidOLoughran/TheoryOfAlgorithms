@@ -21,7 +21,7 @@ This repository contains two Jupyter Notebooks discussing Post Correspondence Pr
 ## Run locally on your machine
 1. Download / Clone this repository into a folder through the command line.<br/>
 ```sh
-   git clone https://github.com/DavidOLoughran/EmergingTechProject.git
+   git clone https://github.com/DavidOLoughran/TheoryOfAlgorithms.git
    ```
 2. Navigate the command line until you are inside the projects folder.<br/>
 - Once in the correct folder enter the following command to run Jupyter Notebook
