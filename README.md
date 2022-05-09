@@ -7,10 +7,16 @@ G00362038
 This repository contains two Jupyter Notebooks discussing Post Correspondence Problem and The Countdown Game.
 
 ## Post Correspondence Problem
+- Explanation of Post Correspondence Problem
+- Explanation of the Bounded Post Correspondence Problem.
+- Solving Bounded Post Correspondence Problem
+- Explanation of what an undecidable problem is in computability theory
 
 
 ## The Countdown Game
-
+- explanation of the Countdown Numbers Game
+- complexity of the Countdown Numbers Game
+- Solving the Countdown Numbers Game
 
 ## Getting started
 
@@ -37,4 +43,11 @@ This repository contains two Jupyter Notebooks discussing Post Correspondence Pr
      or http://127.0.0.1:8888/?token=5e41da8ccf225fc603a51ecbcff8dee32327646ff1506870
    ```
 4. Congratulations, you know have an interactable version of the notebooks set up locally on your own machine
+
+## View Online
+- Post Correspondence Problem [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/TheoryOfAlgorithms/blob/main/post_correspondence.ipynb)
+- The Countdown Game[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DavidOLoughran/TheoryOfAlgorithms/blob/main/countdown-numbers.ipynb)
+
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidOLoughran/TheoryOfAlgorithms/main)
+
 
